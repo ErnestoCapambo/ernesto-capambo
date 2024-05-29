@@ -12,7 +12,7 @@
 }
 
 button:hover, form .btn-enviar input#send-msg:hover, input#reserved-area:hover{
-    box-shadow: 0px 0px 8px #f5e729;
+    box-shadow: 0px 0px 8px #02d4f0;
     transform: scale(1.05);
 }
 
@@ -23,7 +23,7 @@ h2.titulo{
 }
 
 h2 span{
-    color: #f5e729;
+    color: #02d4f0;
 }
 
 body {
@@ -43,7 +43,7 @@ body {
 }
 
 .interface .logo a, .interface .line-footer .flex .logo-footer a{
-    color: #f5e729;
+    color: #02d4f0;
     font-weight: 1000;
 }
 
@@ -91,7 +91,7 @@ header nav.menu-desktop ul {
 }
 
 .btn-contato button{
-    background-color: #f5e729;
+    background-color: #02d4f0;
     padding: 10px 40px;
     font-size: 18px;
     font-weight: 600;
@@ -103,7 +103,7 @@ header nav.menu-desktop ul {
 
 /* Estilo do menu mobile */
 .btn-abrir-menu i{
-    color: #f5e729;
+    color: #02d4f0;
     font-size: 40px;
     cursor: pointer;
 }
@@ -142,7 +142,7 @@ header nav.menu-desktop ul {
 }
 
 .menu-mobile .btn-fechar i{
-    color: #f5e729;
+    color: #02d4f0;
     font-size: 20px;
     cursor: pointer;
 }
@@ -152,7 +152,7 @@ header nav.menu-desktop ul {
 }
 
 .menu-mobile nav ul li a:hover{
-    background-color: #f5e729;
+    background-color: #02d4f0;
     color: #000;
 }
 
@@ -184,7 +184,7 @@ main#main #box-form{
 }
 
 main#main #box-form button#btnOcultarBoxForm {
-    background-color: #f5e729;
+    background-color: #02d4f0;
     padding: 10px 40px;
     font-size: 18px;
     font-weight: 600;
@@ -214,7 +214,7 @@ section.topo-do-site .flex{
 }
 
 .topo-do-site .txt-topo-site h1 span{
-    color: #f5e729;
+    color: #02d4f0;
 }
 
 .topo-do-site .txt-topo-site h1 a{
@@ -245,7 +245,7 @@ section.topo-do-site .flex{
     height: 100%;
     border-top-left-radius: 30px;
     border-bottom-right-radius: 50px;
-    box-shadow: 0px 0px 10px #f5e729;
+    box-shadow: 0px 0px 10px #02d4f0;
     
 }
 
@@ -402,7 +402,7 @@ section.sobre .flex{
 }
 
 .sobre .txt-sobre h2 span{
-    color: #f5e729;
+    color: #02d4f0;
     display: block;
 }
 
@@ -417,7 +417,7 @@ section.sobre .flex{
     height: 60px;
     border-radius: 50%;
     border: none;
-    background-color: #f5e729;
+    background-color: #02d4f0;
     font-size: 22px;
     cursor: pointer;
     margin: 0 5px;
@@ -598,7 +598,7 @@ section.mensage .interface .flex ul{
 section.mensage .interface .flex ul button.btn-del-msg{
     margin-top: 4%;
     width: 80%;
-    background-color: #f5e729;
+    background-color: #02d4f0;
     padding: 10px 40px;
     font-size: 18px;
     font-weight: 600;
@@ -613,11 +613,11 @@ section.mensage .interface .flex ul p.style{
 }
 
 section.mensage .interface .flex ul h3.style{
-    color: #f5e729;
+    color: #02d4f0;
 }
 
 section.mensage .interface .flex ul li.style{
-    color: #f5e729;
+    color: #02d4f0;
 }
 
 section.mensage .interface .flex .msg-box{
@@ -690,7 +690,7 @@ form .btn-enviar, input#send-msg, input#reserved-area {
 
 form .btn-enviar input#send-msg, input#reserved-area {
     width: 120px;
-    background-color: #f5e729;
+    background-color: #02d4f0;
     color: #000;
     font-weight: 700;
     cursor: pointer;
@@ -713,11 +713,11 @@ footer .line-footer{
 }
 
 .borda{
-    border-bottom: 2px solid #f5e729;
+    border-bottom: 2px solid #02d4f0;
 }
 
 footer .line-footer p i{
-    color: #f5e729;
+    color: #02d4f0;
     font-size: 22px;
 }
 
